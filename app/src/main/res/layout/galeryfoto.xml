@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/txtdatao"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="3dip"
+        android:background="#000000"
+        android:gravity="center"
+        android:text="GALERY FOTO"
+        android:textColor="#ffffff"
+        android:textSize="20dip" 
+        
+        />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:padding="@dimen/dimen_5dp"
+        android:paddingLeft="17.0dip"
+        android:paddingRight="17.0dip" 
+        android:layout_marginTop="40dp">
+
+        <Gallery
+            android:id="@+id/galleryViewUrl"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center" />
+
+        <com.loopj.android.image.SmartImageView
+            android:id="@+id/imageView02"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal" />
+
+        <com.loopj.android.image.SmartImageView
+            android:id="@+id/gambar"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:src="@drawable/no_image"
+            android:visibility="gone" />
+    </LinearLayout>
+    
+    <ImageView
+        android:layout_width="210dip"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"/>
+
+</RelativeLayout>

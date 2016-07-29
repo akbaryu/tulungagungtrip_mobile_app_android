@@ -1,0 +1,318 @@
+[
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_detail_icon.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\drawable\\btn_detail_icon.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image_about_default.jpg",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\drawable\\image_about_default.jpg"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.3.0\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_green.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\drawable\\btn_green.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bgbudayanull.png",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\drawable\\bgbudayanull.png"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_transport_stations.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\drawable\\btn_transport_stations.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_restourant.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\drawable\\btn_restourant.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_peta.png",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\drawable\\navigation_peta.png"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_icon_route.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\drawable\\btn_icon_route.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\header.png",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\drawable\\header.png"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\no_image.png",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\drawable\\no_image.png"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_atm.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\drawable\\btn_atm.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_bg_normal.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\drawable\\list_item_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_icon_call.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\drawable\\btn_icon_call.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_info.png",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\drawable\\ic_action_info.png"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_refresh.png",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\drawable\\navigation_refresh.png"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.png",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_icon_map.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\drawable\\btn_icon_map.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_dark.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_light.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_photo.png",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\drawable\\ic_action_photo.png"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_about_informasi.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\drawable\\btn_about_informasi.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_prayer.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\drawable\\btn_prayer.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_detail_wisata.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\drawable\\btn_detail_wisata.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.jpg",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\drawable\\splash.jpg"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_bg_pressed.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\drawable\\list_item_bg_pressed.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\drawable\\list_selector.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_about_coment.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\drawable\\btn_about_coment.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_detail_judul.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\drawable\\btn_detail_judul.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_gas_station.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\drawable\\btn_gas_station.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\line.png",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\drawable\\line.png"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_hospital.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\drawable\\btn_hospital.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\footer.png",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\drawable\\footer.png"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_about_website.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\drawable\\btn_about_website.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lokasi.png",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\drawable\\lokasi.png"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_light.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\counter_bg.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\drawable\\counter_bg.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_icon_foto.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\drawable\\btn_icon_foto.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\content_remove.png",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\drawable\\content_remove.png"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_hotel.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\drawable\\btn_hotel.xml"
+    }
+]

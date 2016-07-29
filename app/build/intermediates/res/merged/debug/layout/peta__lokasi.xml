@@ -1,0 +1,100 @@
+<!--suppress ALL -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <fragment
+        android:id="@+id/map"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        class="com.google.android.gms.maps.SupportMapFragment" />
+
+    <Button
+        android:id="@+id/btn_View"
+        android:layout_width="45dip"
+        android:layout_height="45dip"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="55dip"
+        android:layout_marginLeft="5dip"
+        android:background="@drawable/navigasi_view" />
+
+    <Button
+        android:id="@+id/btn_Route"
+        android:layout_width="45dip"
+        android:layout_height="45dip"
+        android:layout_above="@+id/btn_View"
+        android:layout_alignLeft="@+id/btn_View"
+        android:layout_marginBottom="10dip"
+        android:background="@drawable/navigasi_route" />
+
+    <Button
+        android:id="@+id/btn_Refresh"
+        android:layout_width="45dip"
+        android:layout_height="45dip"
+        android:layout_above="@+id/btn_Route"
+        android:layout_alignLeft="@+id/btn_Route"
+        android:layout_marginBottom="10dip"
+        android:background="@drawable/navigasi_refresh" />
+
+    <Button
+        android:id="@+id/btn_minus"
+        android:layout_width="45dip"
+        android:layout_height="45dip"
+        android:layout_above="@+id/btn_Refresh"
+        android:layout_alignLeft="@+id/btn_Refresh"
+        android:layout_marginBottom="10dip"
+        android:background="@drawable/navigasi_minus" />
+
+    <Button
+        android:id="@+id/btn_plus"
+        android:layout_width="45dip"
+        android:layout_height="45dip"
+        android:layout_above="@+id/btn_minus"
+        android:layout_marginBottom="10dip"
+        android:background="@drawable/navigasi_plus" />
+
+    <Button
+        android:id="@+id/btn_gps"
+        android:layout_width="45dip"
+        android:layout_height="45dip"
+        android:layout_above="@+id/btn_plus"
+        android:layout_marginBottom="10dip"
+        android:background="@drawable/navigasi_lokasi" 
+        android:visibility="gone"/>
+
+    
+
+    <RadioGroup
+        android:id="@+id/rg_views"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/btn_View"
+        android:layout_alignParentRight="true"
+        android:layout_margin="5dip"
+        android:background="#ffffff"
+        android:orientation="horizontal" 
+        android:visibility="gone">
+
+        <RadioButton
+            android:id="@+id/rb_normal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="@string/str_rb_normal" />
+
+        <RadioButton
+            android:id="@+id/rb_satellite"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/str_rb_satellite" />
+
+        <RadioButton
+            android:id="@+id/rb_terrain"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/str_rb_terrain" />
+    </RadioGroup>
+
+</RelativeLayout>

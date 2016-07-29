@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\menu\\peta__lokasi__explore.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\menu\\peta__lokasi__explore.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ngawi.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\menu\\ngawi.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\menu\\peta__lokasi.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\menu\\peta__lokasi.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\menu\\image_loader.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\menu\\image_loader.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\menu\\fragmnet_call__emergency.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\menu\\fragmnet_call__emergency.xml"
+    }
+]

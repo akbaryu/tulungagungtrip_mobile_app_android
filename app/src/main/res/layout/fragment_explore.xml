@@ -1,0 +1,66 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/home_root"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+  
+    	
+    <com.slidingmenu.DashboardLayout
+    		xmlns:android="http://schemas.android.com/apk/res/android"
+    		android:layout_width="fill_parent"
+    		android:layout_height="fill_parent"
+    		android:layout_weight="1"
+    		android:background="#F1F8E9" >
+
+		    <Button
+       			android:id="@+id/btnAtm"
+        		style="@style/DashboardButton"
+        		android:drawableTop="@drawable/btn_atm"
+        		android:text="ATM" />
+    
+    		<Button
+        		android:id="@+id/btn_friends"
+        		style="@style/DashboardButton"
+        		android:drawableTop="@drawable/btn_hotel"
+        		android:text="Hotel" />
+    
+    		<Button
+       			android:id="@+id/btnSpbu"
+        		style="@style/DashboardButton"
+        		android:drawableTop="@drawable/btn_gas_station"
+        		android:text="SPBU" />
+	
+			<Button
+        		android:id="@+id/btn_places"
+        		style="@style/DashboardButton"
+        		android:drawableTop="@drawable/btn_restourant"
+       			android:text="Rumah Makan" />
+
+			
+			
+  			<Button
+        		android:id="@+id/btnRmIbadah"
+      		    style="@style/DashboardButton"
+        		android:drawableTop="@drawable/btn_prayer"
+        		android:text="Rumah Ibadah" />
+
+  			
+  			
+    		<Button
+        		android:id="@+id/btn_rmsakit"
+        		style="@style/DashboardButton"
+        		android:drawableTop="@drawable/btn_hospital"
+        		android:text="Rumah Sakit" />
+    		
+    		<Button
+        		android:id="@+id/btnTransport"
+        		style="@style/DashboardButton"
+        		android:drawableTop="@drawable/btn_transport_stations"
+        		android:text="Transportasi Umum" />
+    		
+    		
+    	
+    
+   		</com.slidingmenu.DashboardLayout>
+			    
+</LinearLayout>

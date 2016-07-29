@@ -1,0 +1,20 @@
+-keep class com.tugas.tulungagungtrip.SplashScreen { <init>(); }
+-keep class com.tugas.tulungagungtrip.TulungagungActivity { <init>(); }
+-keep class com.tugas.tulungagungtrip.FragmentPeta { <init>(); }
+-keep class com.tugas.tulungagungtrip.Wisata_Data { <init>(); }
+-keep class com.tugas.tulungagungtrip.Wisata_Detail { <init>(); }
+-keep class com.tugas.tulungagungtrip.FragmentInfo { <init>(); }
+-keep class com.tugas.tulungagungtrip.Fragment_Info_Detail { <init>(); }
+-keep class com.tugas.tulungagungtrip.Peta_Lokasi { <init>(); }
+-keep class com.google.android.gms.ads.AdActivity { <init>(); }
+-keep class com.google.android.gms.ads.purchase.InAppPurchaseActivity { <init>(); }
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementContentProvider { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+-keep public class * extends java.lang.annotation.Annotation {
+    *;
+}

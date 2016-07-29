@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#F1F8E9" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="150.0dip"
+            android:layout_height="150.0dip"
+            android:layout_gravity="center"
+            android:layout_marginTop="20.0dip"
+            android:src="@drawable/logo" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="4.0dip"
+            android:text="Aplikasi Informasi Wisata Kabupaten Ngawi mengunakan sliding menu navigation drawer, aplikasi ini juga diwajibkan terdapat pemasangan layanan Google Play."
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="4.0dip"
+            android:text="Pada penggunaan nya aplikasi ini memerlukan izin penggunaan GPS dan akses internet kepada sistem untuk menampilkan data dan peta informasi."
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="4.0dip"
+            android:text="Menurut penggunaanya aplikasi ini terdapat 6 menu fungsi:" />
+
+        <TextView
+            android:id="@+id/textWisata"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="4.0dip"
+            android:text="1. Menu Wisata:" />
+         <TextView
+            android:id="@+id/textViewWisataIsi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dip"
+            android:text="Menu Wisata adalah tampilan awal aplikasi, Daftar wisata ini dibagi menjadi 4 kategori object wisata." />
+        
+
+        <TextView
+            android:id="@+id/textViewExplore"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="4.0dip"
+            android:layout_marginBottom="0dip"
+            android:text="2. Menu Explore :" />
+        
+        <TextView
+            android:id="@+id/textViewExploreIsi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dip"
+            android:text="Menu Explore berisi tentang hal-hal yang mendukung dari kegiatan wisata, seperti ATM, SPBU, dan lain-lain." />
+
+        <TextView
+            android:id="@+id/textViewPeta"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="4.0dip"
+            android:text=" 3. Menu Peta:" />
+
+        <TextView
+            android:id="@+id/textViewPetaIsi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dip"
+            android:text="Menu Peta ini menampilkan peta dari kabupaten ngawi." />
+        
+                <TextView
+            android:id="@+id/textViewPanggilanDarurat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="4.0dip"
+            android:text=" 4. Menu Panggilan Darurat:" />
+
+        <TextView
+            android:id="@+id/textViewPanggilanDaruratIsi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dip"
+            android:text="Menu Panggilan darurat Berisi tentang daftar no panggilan darurat." />
+        
+                <TextView
+            android:id="@+id/textViewInformasi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="4.0dip"
+            android:text=" 5. Menu Informasi:" />
+
+        <TextView
+            android:id="@+id/textViewInformasiIsi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dip"
+            android:text="Menu Informasi memberikan informasi terbaru." />
+
+ 		<TextView
+            android:id="@+id/textViewBantuan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="4.0dip"
+            android:text=" 6. Menu Bantuan:" />
+
+        <TextView
+            android:id="@+id/textViewBantuanIsi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dip"
+            android:text="Menu Bantuan diajurkan untuk tata cara penggunaan aplikasi." />
+
+        <TextView
+            android:id="@+id/textViewMaanfaat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="11.0dip"
+            android:layout_marginTop="30dip"
+            android:textSize="14dp"
+            android:textColor="@color/list_background_pressed"
+            android:text="Semoga aplikasi ini bermanfaat bagi pengguna smartphone yang sedang mengunjungi Kabupaten Ngawi."
+            android:textStyle="bold" />
+        
+        
+        <TableRow
+            android:id="@+id/tableRow1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center" >
+
+            <Button
+                android:id="@+id/btnAbout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawableTop="@drawable/btn_about_informasi" 
+                android:layout_marginTop="20dip"
+                android:text="About"
+                android:textSize="11dp"/>
+            
+             <Button
+                android:id="@+id/btnComent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawableTop="@drawable/btn_about_coment"
+                android:layout_marginTop="20dip"
+                android:text="Komentar" 
+                android:textSize="11dp"/>
+
+            <Button
+                android:id="@+id/btnWeb"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawableTop="@drawable/btn_about_website"
+                android:layout_marginTop="20dip" 
+                android:text="Web Dispar"
+                android:textSize="11dp"/>
+        </TableRow>
+    </LinearLayout>
+
+</ScrollView>

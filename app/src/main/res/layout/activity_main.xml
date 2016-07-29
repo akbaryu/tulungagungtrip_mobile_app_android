@@ -1,0 +1,33 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+ xmlns:tools="http://schemas.android.com/tools"
+ android:layout_width="fill_parent"
+ android:layout_height="fill_parent"
+ tools:context=".MainActivity"
+ android:orientation="vertical"
+ android:background="#FFF567" >
+ 
+<EditText
+ android:id="@+id/et"
+ android:layout_width="match_parent"
+ android:layout_height="wrap_content"
+ android:layout_toLeftOf="@+id/btn" >
+ 
+<requestFocus />
+ </EditText>
+ <Button
+ android:id="@+id/btn"
+ android:layout_width="wrap_content"
+ android:layout_height="wrap_content"
+ android:layout_alignParentRight="true"
+ android:layout_alignParentTop="true"
+ android:text="Search"
+ android:onClick="search_db"/>
+ <ListView
+ android:id="@+id/lv"
+ android:layout_width="match_parent"
+ android:layout_height="wrap_content"
+ android:layout_below="@+id/et">
+ 
+</ListView>
+ 
+</RelativeLayout>

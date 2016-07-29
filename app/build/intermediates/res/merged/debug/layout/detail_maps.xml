@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--suppress ALL -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:orientation="vertical" >
+    <fragment
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.MapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <ImageView
+        android:id="@+id/icon_id"
+        android:layout_width="45dip"
+        android:layout_height="45dip"
+       android:layout_marginLeft="5dip"
+        android:background="@drawable/navigasi_route" 
+        android:layout_above="@+id/text_icon"
+        />
+
+    <TextView 
+        android:id="@+id/text_icon"
+        android:layout_height="wrap_content"
+        android:layout_width="60dip"
+        android:layout_margin="5dip"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="20dip"
+        android:text="Route"
+        android:textStyle="bold"
+        android:layout_alignParentBottom="true"
+        />
+</RelativeLayout>

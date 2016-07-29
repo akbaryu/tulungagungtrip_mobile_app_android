@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/background">
+                
+    <ImageView
+        android:id="@+id/ImageView3_Left"
+        android:layout_width="fill_parent"
+        android:layout_height="240dip"
+        android:layout_above="@+id/bngawi"
+        android:layout_alignParentLeft="true"
+        android:layout_margin="1.0dip"
+        android:background="@drawable/bgbudayanull"
+        android:padding="2.0dip" >
+    </ImageView>
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="0.0dip"
+        android:layout_weight="1.0" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/btn_wisatasejarah"
+                android:layout_width="fill_parent"
+                android:layout_height="45dip"
+                android:layout_margin="3.0dip"
+                android:background="@drawable/btn_green"
+                android:text="Wisata Sejarah"  
+                android:typeface="sans"/>
+
+            <Button
+                android:id="@+id/btn_wisataalam"
+                android:layout_width="fill_parent"
+                android:layout_height="50dip"
+                android:layout_margin="3.0dip"
+                android:background="@drawable/btn_green"
+                android:text="Wisata Alam" 
+                 android:typeface="sans"/>
+            
+            
+
+            <Button
+                android:id="@+id/btn_wisatakeluarga"
+                android:layout_width="fill_parent"
+                android:layout_height="50dip"
+                android:layout_margin="3.0dip"
+                android:background="@drawable/btn_green"
+                android:text="Wisata Keluarga" />
+            
+            <Button
+                android:id="@+id/btn_wisatabudaya"
+                android:layout_width="fill_parent"
+                android:layout_height="50dip"
+                android:layout_margin="3.0dip"
+                android:background="@drawable/btn_green"
+                android:text="Wisata Industri" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

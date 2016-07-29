@@ -1,0 +1,117 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="7dip" >
+
+    <LinearLayout android:id="@+id/gbr" 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="3dip"      
+        android:layout_alignParentLeft="true"
+        android:background="#F0F0F0" 
+        android:layout_marginRight="5dip">
+        
+        <ImageView     
+            android:id="@+id/gambarb" 
+            android:layout_width="80dip"
+            android:layout_height="80dip"
+            android:src="@drawable/no_image"/>
+        <TextView
+        android:id="@+id/namagambarplace" 
+        android:visibility="gone"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"/>
+        
+    </LinearLayout>
+    <TextView
+        android:id="@+id/namagambar2place" 
+        android:visibility="gone"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"/>
+        <TextView
+        android:id="@+id/namagambar3place" 
+        android:visibility="gone"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"/>
+        <TextView
+        android:id="@+id/namagambar4place" 
+        android:visibility="gone"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"/>
+        <TextView
+        android:id="@+id/namagambar5place" 
+        android:visibility="gone"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"/>
+        
+    <TextView
+        android:id="@+id/namaplace" 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/gbr"
+        android:layout_toRightOf="@+id/gbr"      
+        android:textSize="13sp"
+        android:textStyle="bold"/>
+    <TextView
+        android:id="@+id/fasilitasplace"
+       	android:layout_width="175dp"
+        android:layout_height="30dp"
+        android:layout_below="@id/namaplace"
+        android:layout_marginTop="3dp"
+        android:layout_toRightOf="@+id/gbr"
+        android:textSize="11sp"
+        android:textStyle="bold"/>
+    <TextView
+        android:id="@+id/kategoriplace"
+        android:visibility="gone"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:id="@+id/budget"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/fasilitasplace"
+        android:layout_marginTop="3dp"
+        android:visibility="gone" 
+        android:layout_toRightOf="@+id/gbr"
+        android:textSize="11sp"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/jarak"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/fasilitasplace"
+        android:layout_marginTop="3dp"
+        android:layout_toRightOf="@+id/gbr"
+        android:textSize="11sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/idplace"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/namaplace"   
+        android:visibility="gone"       
+        android:textSize="11sp"
+        android:textStyle="bold"
+        android:layout_marginTop="3dp"
+        android:layout_toRightOf="@+id/gbr" />
+     <TextView
+        android:id="@+id/longitudeb"
+        android:visibility="gone"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/budget"        
+        android:layout_marginTop="3dp"
+        android:layout_toRightOf="@+id/gbr" />
+    <TextView
+        android:id="@+id/latitudeb"
+        android:visibility="gone"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/budget"        
+        android:layout_marginTop="3dp"
+        android:layout_toRightOf="@+id/gbr" />
+
+</RelativeLayout>

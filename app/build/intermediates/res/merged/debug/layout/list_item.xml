@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="right"
+    android:orientation="vertical"
+    android:padding="7dp" >
+ 
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+ 
+        <!-- Name Label -->
+ 
+        <TextView
+            android:id="@+id/nama"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="2dip"
+            android:textColor="#333333"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+ 
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+             />
+ 
+        <TextView
+            android:id="@+id/kode"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#D7DEF0"
+            android:textSize="1sp" >
+        </TextView>
+    </RelativeLayout>
+ 
+</LinearLayout>

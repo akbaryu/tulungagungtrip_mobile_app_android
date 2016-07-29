@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\galeryfoto.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\layout\\galeryfoto.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bantuan.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\layout\\fragment_bantuan.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_back.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\layout\\about_back.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\exploredata.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\layout\\exploredata.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\detail_maps.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\layout\\detail_maps.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\explorelist_kategori.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\layout\\explorelist_kategori.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\peta__lokasi.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\layout\\peta__lokasi.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\explorelist.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\layout\\explorelist.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splahscreen.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\layout\\splahscreen.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wisata_detail.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\layout\\wisata_detail.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_wisata.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\layout\\fragment_wisata.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_explore.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\layout\\fragment_explore.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_peta_lokasi_explore.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\layout\\activity_peta_lokasi_explore.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_info_data.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\layout\\fragment_info_data.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\coment.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\layout\\coment.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_info_detail.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\layout\\fragment_info_detail.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wisata_data.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\layout\\wisata_data.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_front.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\layout\\about_front.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\call_emergency.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\layout\\call_emergency.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ngawi.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\layout\\ngawi.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_maps.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\layout\\fragment_maps.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_info_list.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\layout\\fragment_info_list.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_list_item.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\src\\main\\res\\layout\\drawer_list_item.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\ANDROID Develop Project\\TulungagungTrip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_up_container.xml"
+    }
+]

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background" >
+    
+    <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="40.0dip"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/header"
+                android:gravity="bottom|center"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/header_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom"
+                    android:layout_marginBottom="3.0dip"
+                    android:gravity="bottom"
+                    android:text="Form Input Data"
+                    android:textColor="#08a266"
+                    android:textSize="20.0sp" />
+            </LinearLayout>
+    
+    <!-- Name Label -->
+    <TextView android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Nama :"
+        android:paddingLeft="10dip"
+        android:paddingRight="10dip"
+        android:paddingTop="20dip"
+        android:textSize="17dip"
+        />
+    
+    <!-- Input Name -->
+	<EditText android:id="@+id/inputName"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_margin="5dip"
+	    android:layout_marginBottom="15dip"
+	    android:singleLine="true"/>
+	
+	<!-- Price Label -->
+    <TextView android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Email :"
+        android:paddingLeft="10dip"
+        android:paddingRight="10dip"
+        android:paddingTop="10dip"
+        android:textSize="17dip"/>
+    
+    <!-- Input Price -->
+	<EditText android:id="@+id/inputPrice" 
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_margin="5dip"
+	    android:layout_marginBottom="15dip"
+	    android:singleLine="true"/>
+	
+	<!-- Description Label -->
+    <TextView android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Isi Pesan :"
+        android:paddingLeft="10dip"
+        android:paddingRight="10dip"
+        android:paddingTop="10dip"
+        android:textSize="17dip"/>
+    
+    <!-- Input description -->
+	<EditText android:id="@+id/inputDesc" 
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_margin="5dip"
+	    android:layout_marginBottom="15dip"
+	    android:lines="4"
+	    android:gravity="top"/>
+	
+	<!-- Button Create Product -->
+	<Button android:id="@+id/btnCreateProduct" 
+	    android:layout_gravity="right"
+	    android:layout_marginRight="20dip"
+	    android:layout_marginTop="10dip"
+	    android:layout_width="120dip"
+	    android:layout_height="wrap_content"
+	    android:text="Kirim"/>
+	
+</LinearLayout>

@@ -1,0 +1,105 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="7dip" >
+
+    <LinearLayout
+        android:id="@+id/layer_gambar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_marginRight="5dip"
+        android:background="#F0F0F0"
+        android:padding="1dip" >
+
+        <ImageView
+            android:id="@+id/gambarb"
+            android:layout_width="80dip"
+            android:layout_height="80dip"
+            android:src="@drawable/no_image" 
+            android:background="#bbd4b5"
+            android:scaleType="centerCrop"/>
+
+        <TextView
+            android:id="@+id/nama_gambar_wisata"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:visibility="gone" />
+    </LinearLayout>
+    
+    <TextView
+        android:id="@+id/nama_wisata"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/layer_gambar"
+        android:layout_toRightOf="@+id/layer_gambar"
+        style="@style/DataSubJudulTextJudul" />
+
+    <TextView
+        android:id="@+id/keterangan_wisata"
+        android:layout_width="fill_parent"
+        android:layout_height="38dp"
+        android:layout_below="@id/nama_wisata"
+        android:layout_marginTop="3dp"
+        android:layout_toRightOf="@+id/layer_gambar"
+        style="@style/DataIsiTextJudul" />
+
+    <TextView
+        android:id="@+id/kategori_wisata"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/alamat_wisata"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/keterangan_wisata"
+        android:layout_marginTop="3dp"
+        android:layout_toRightOf="@+id/layer_gambar"
+        android:textSize="11sp"
+        android:textStyle="bold"
+        android:visibility="gone" />
+
+
+    <TextView
+        android:id="@+id/jarak"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/alamat_wisata"
+        android:layout_marginTop="11dp"
+        style="@style/DataJarakTextJudul"
+        android:textStyle="bold|italic" />
+
+    <TextView
+        android:id="@+id/id_wisata"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/nama_wisata"
+        android:layout_marginTop="3dp"
+        android:layout_toRightOf="@+id/layer_gambar"
+        android:textSize="11sp"
+        android:textStyle="bold"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/longitudeb"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/keterangan_wisata"
+        android:layout_marginTop="3dp"
+        android:layout_toRightOf="@+id/layer_gambar"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/latitudeb"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/keterangan_wisata"
+        android:layout_marginTop="3dp"
+        android:layout_toRightOf="@+id/layer_gambar"
+        android:visibility="gone" />
+
+</RelativeLayout>
